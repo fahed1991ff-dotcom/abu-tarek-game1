@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "لعبة أبو طارق الغاوي",
+  "short_name": "أبو طارق",
+  "description": "لعبة حلاوة الجبن مع أبو أمير",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#170c05",
+  "theme_color": "#241207",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
